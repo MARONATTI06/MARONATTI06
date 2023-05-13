@@ -27,7 +27,7 @@ class MAROSA(self):
             'graduate': ['Computer Systems Engineer'],
             
         },
-        self.architecture = ['MVC', 'microservices'],
+       
         self.code = {
             'erp': ['odoo'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','React', 'Angular'],
