@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 class MAROSA(self):
         self.username = 'MAROSA06'
         self.name = 'Saul Uriel Maronatti Diaz'
-        self.linkedin = 'https://www.linkedin.com/in/marlon-falc%C3%B3n-3a2aa9a4/'
         self.source = {
             'I have lived': ['México','CDMX ']         
         },
