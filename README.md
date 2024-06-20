@@ -5,7 +5,7 @@
 - 🎓 Estudios: Ingeniero en Sistemas Computacionales
 
 #### Tecnologías y Herramientas
-- 💻 Lenguajes: Python, PHP, JavaScript, C# 
+- 💻 Lenguajes: Python, PHP, JavaScript, C#, Cobol
 - 🌐 Frontend: HTML, CSS, React, Angular, Bootstrap
 - 🛠️ Backend: Node.js, GraphQL
 - 🗄️ Bases de Datos: PostgreSQL, MySQL, SQLite3, MongoDB, SQLServer
@@ -13,4 +13,4 @@
 - 🤖 RPA: UiPath
 - 🔧 Herramientas: Git, GitHub
 - 🖥️ IDEs: Visual Studio Code, Android Studio
-- 🚀 Otros: Firebase, SCRUM, GNU/Linux, Cobol, Devexpress
+- 🚀 Otros: Firebase, SCRUM, GNU/Linux, Devexpress
