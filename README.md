@@ -13,7 +13,7 @@
 - 🤖 RPA: UiPath
 - 🔧 Herramientas: Git, GitHub
 - 🖥️ IDEs: Visual Studio Code, Android Studio
-- 🚀 Otros: Firebase, SCRUM, GNU/Linux, Devexpress
+- 🚀 Otros: Firebase, SCRUM Master, GNU/Linux, Devexpress
 
 # 📊 GitHub Statistics:
 
