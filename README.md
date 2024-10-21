@@ -14,3 +14,8 @@
 - 🔧 Herramientas: Git, GitHub
 - 🖥️ IDEs: Visual Studio Code, Android Studio
 - 🚀 Otros: Firebase, SCRUM, GNU/Linux, Devexpress
+
+# 📊 GitHub Statistics:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MARONATTI06&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARONATTI06&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
