@@ -1,4 +1,4 @@
-### ¡Hola! Soy Saul Uriel Maronatti Diaz 👋
+### ¡Hola! Soy Saul Maronatti 👋
 
 #### Acerca de mí
 🌍 Ubicación: México, CDMX
